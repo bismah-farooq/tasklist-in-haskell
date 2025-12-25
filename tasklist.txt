@@ -1,0 +1,10 @@
+Book Flight to New York, 01, 10, 2025
+Haircut, 11, 20, 2024
+Do Math Homework, 11, 05, 2024
+Do Grocery Shopping, 11, 21, 2024
+Do English Assignment, 11, 15, 2024
+Write Email to Supervisor, 11, 13, 2024
+Clean House, 11, 26, 2024
+Read Book for English Class, 11, 09, 2024
+Babysit for Neighbor Kids, 11, 15, 2024
+Submit Resume and Application, 12, 05, 2024
